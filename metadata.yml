@@ -1,6 +1,6 @@
 Identifier: eos80al
 Slug: hit-locator-similarity
-Status: In progress
+Status: Ready
 Title: Enamine Hit Locator Similarity
 Description: Retrieves the 100 nearest neighbours of a query molecule in the 
   Enamine Hit Locator Library, a set of 460,160 screening compounds indexed by 
@@ -37,6 +37,18 @@ Source Code: https://github.com/ersilia-os/lazy-sim
 License: Non-commercial
 Contributor: arnaucoma24
 Incorporation Date: '2026-10-27'
+Last Packaging Date: '2026-10-28'
+Release: v1.0.0
 S3: https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos80al.zip
+DockerHub: https://hub.docker.com/r/ersiliaos/eos80al
+Docker Architecture:
+  - AMD64
+  - ARM64
 Model Size: 876.0
 Environment Size: 587.0
+Image Size: 2290.67
+Computational Performance 1: 28.83
+Computational Performance 2: 19.69
+Computational Performance 3: 25.82
+Computational Performance 4: 97.57
+Computational Performance 5: 410.58
