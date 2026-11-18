@@ -44,6 +44,7 @@ DockerHub: https://hub.docker.com/r/ersiliaos/eos80al
 Docker Architecture:
   - AMD64
   - ARM64
+Apptainer: https://models-sif.s3.eu-north-1.amazonaws.com/eos80al_v1.sif
 Model Size: 876.0
 Environment Size: 587.0
 Image Size: 2290.67
