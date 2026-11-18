@@ -38,7 +38,7 @@ License: Non-commercial
 Contributor: arnaucoma24
 Incorporation Date: '2026-10-27'
 Last Packaging Date: '2026-10-28'
-Release: v1.0.0
+Release: v1.0.1
 S3: https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos80al.zip
 DockerHub: https://hub.docker.com/r/ersiliaos/eos80al
 Docker Architecture:
